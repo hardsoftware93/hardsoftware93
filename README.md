@@ -1,4 +1,4 @@
-# 👋 Welcome! 👋
+# 👋🏾 Welcome! 👋🏾
 
 
 I'm a problem-solving oriented, full stack software engineer with a deep interest in website and iOS app development. Currently I am looking for full time work and am open to work on any interesting projects where I can add value!
