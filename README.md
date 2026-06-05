@@ -1,12 +1,10 @@
 # 👋🏾 Welcome! 👋🏾
 
 
-I'm a problem-solving oriented, full stack software engineer with a deep interest in website and iOS app development. Currently I am looking for full time work and am open to work on any interesting projects where I can add value!
+I'm CODE. A problem-solving oriented, full stack software engineer with a deep interest in website and iOS app development. Currently I am looking for full time work and am open to work on any interesting projects where I can add value!
 
 ## About Me:
-Lakers must I say anything else! Mamba is the GOAT. If I'm not watching bball I'm watching old gangster movies. 
-
-I have been learning more about app development and would love to start making apps that can educate on iOS and Android devices.
+Making full stack web applications is an art and the terminal is my canvas,
 
 ## Skills: 
 
@@ -16,8 +14,6 @@ I have been learning more about app development and would love to start making a
 
 
 ## Social:
-![TWITTER BADGE](https://img.shields.io/static/v1?label=|&message=TWITTER&color=3c7f5d&style=plastic&logo=twitter)
-<a href="https://twitter.com/hardsoftware93">Twitter</a>
 ![LINKEDIN BADGE](https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=3c7f5d&style=plastic&logo=linkedin)
 <a href="https://linkedin.com/in/hakeem-s">LinkedIn</a>
 <!--
