@@ -29,7 +29,6 @@ Operations
 
 .
 ## Social:
-LinkedIn
 <a href="https://linkedin.com/in/hakeem-s">LinkedIn</a>
 <!--
 **hardsoftware93/hardsoftware93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
