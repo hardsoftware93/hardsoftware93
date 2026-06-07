@@ -27,7 +27,7 @@ Operations
 - Process Design
 - Systems Development
 
-.
+
 ## Social:
 <a href="https://linkedin.com/in/hakeem-s">LinkedIn</a>
 <!--
